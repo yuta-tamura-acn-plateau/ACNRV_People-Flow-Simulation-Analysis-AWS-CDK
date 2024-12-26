@@ -1,6 +1,6 @@
 # シミュレーション結果分析のためのAWS環境構築用AWS CDK
 
-![概要](./img/index.png)
+![概要](./Contents/img/index.png)
 
 ## 更新履歴
 | 更新日時 | リリース | 更新内容 |
