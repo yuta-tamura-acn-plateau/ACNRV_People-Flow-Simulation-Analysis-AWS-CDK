@@ -1,0 +1,3 @@
+GoalArea_id,GoalArea_name,Goal_People_Num,Goal_People_Area_Size,Goal_People_Density,Density_Ratio,Goal_Area_Size
+TestGoalL,TestGoalL,100,17.349445,0.620979,0.107736,161.036102
+TestGoalR,TestGoalR,100,13.854424,0.620979,0.086033,161.036102

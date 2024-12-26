@@ -1,0 +1,185 @@
+{
+  "source_base_path": "/docfx",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/devMan.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/devMan.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "manual/toc.yml",
+      "output": {
+        ".json": {
+          "relative_path": "manual/toc.json"
+        },
+        ".html": {
+          "relative_path": "manual/toc.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/userMan.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/userMan.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/index.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/index.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/logo.svg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/logo.svg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/userMan/sampleLogs/CharacterEndLog.csv",
+      "output": {
+        "resource": {
+          "relative_path": "resources/userMan/sampleLogs/CharacterEndLog.csv"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/userMan/sampleLogs/CharacterInfo.csv",
+      "output": {
+        "resource": {
+          "relative_path": "resources/userMan/sampleLogs/CharacterInfo.csv"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/userMan/sampleLogs/CharacterStartLog.csv",
+      "output": {
+        "resource": {
+          "relative_path": "resources/userMan/sampleLogs/CharacterStartLog.csv"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/userMan/sampleLogs/GoalDensityInfo.csv",
+      "output": {
+        "resource": {
+          "relative_path": "resources/userMan/sampleLogs/GoalDensityInfo.csv"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/userMan/sample_ss_glue01.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/userMan/sample_ss_glue01.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/userMan/sample_ss_glue02.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/userMan/sample_ss_glue02.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/userMan/sample_ss_glue03.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/userMan/sample_ss_glue03.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/userMan/sample_ss_glue04.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/userMan/sample_ss_glue04.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/userMan/sample_ss_s301.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/userMan/sample_ss_s301.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".json": {
+          "relative_path": "toc.json"
+        },
+        ".html": {
+          "relative_path": "toc.html"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
