@@ -75,46 +75,6 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "resources/userMan/sampleLogs/CharacterEndLog.csv",
-      "output": {
-        "resource": {
-          "relative_path": "resources/userMan/sampleLogs/CharacterEndLog.csv"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "resources/userMan/sampleLogs/CharacterInfo.csv",
-      "output": {
-        "resource": {
-          "relative_path": "resources/userMan/sampleLogs/CharacterInfo.csv"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "resources/userMan/sampleLogs/CharacterStartLog.csv",
-      "output": {
-        "resource": {
-          "relative_path": "resources/userMan/sampleLogs/CharacterStartLog.csv"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "resources/userMan/sampleLogs/GoalDensityInfo.csv",
-      "output": {
-        "resource": {
-          "relative_path": "resources/userMan/sampleLogs/GoalDensityInfo.csv"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
       "source_relative_path": "resources/userMan/sample_ss_glue01.png",
       "output": {
         "resource": {
